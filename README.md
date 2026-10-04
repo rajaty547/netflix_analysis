@@ -13,7 +13,8 @@ The data for this project is sourced from the Kaggle dataset:
 
 # Dataset Link: [Movies Dataset](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)
 
-# Objective: Categorize content as 'Bad' if it contains 'kill' or 'violence' and 'Good' otherwise. Count the number of items in each category.
+# Objective: 
+Categorize content as 'Bad' if it contains 'kill' or 'violence' and 'Good' otherwise. Count the number of items in each category.
 
 # Findings and Conclusion
 Content Distribution: The dataset contains a diverse range of movies and TV shows with varying ratings and genres.
